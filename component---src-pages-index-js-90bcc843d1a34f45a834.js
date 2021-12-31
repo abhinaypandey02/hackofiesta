@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkhackofiesta=self.webpackChunkhackofiesta||[]).push([[678],{7704:function(e,t,a){a.r(t);var l=a(7294);t.default=function(){return l.createElement("main",null,l.createElement("title",null,"Hackofiesta"),l.createElement("div",null,"Cool Hackofiesta Website"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-90bcc843d1a34f45a834.js.map
